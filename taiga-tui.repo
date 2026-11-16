@@ -1,0 +1,7 @@
+[taiga-tui]
+name=taiga-tui
+baseurl=https://zeckitoz.github.io/linux-repo/rpm
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://zeckitoz.github.io/linux-repo/taiga-tui.asc
