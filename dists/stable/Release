@@ -1,0 +1,31 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Mon, 16 Nov 2026 12:45:54 +0000
+Label: taiga-tui
+Origin: taiga-tui
+Suite: stable
+MD5Sum:
+ eb8c7d6b1b9f4eff51ee867b1502dd77              148 Release
+ f686a05bd118b5549703b98d96bd4133              643 main/binary-amd64/Packages
+ fc6a642cd543a7e91a658a73f290a7a3              460 main/binary-amd64/Packages.gz
+ d089d4d1816e231e1ae402179b2c3de1              642 main/binary-arm64/Packages
+ 86b7e37b4c671d315248a9312aec8a48              459 main/binary-arm64/Packages.gz
+SHA1:
+ d35266f8ac58a835c162810e8454d8702b20f666              148 Release
+ 9ece00d0a112d7d19cef60a99113d339cc3b5274              643 main/binary-amd64/Packages
+ d27893a9582b311a84cb80344e3ffbe5f2c08ab4              460 main/binary-amd64/Packages.gz
+ a51fa422c736dd3538473cd429e459ca269a2601              642 main/binary-arm64/Packages
+ a0a140fabb3a0c260781b5a89f62f31e3de14add              459 main/binary-arm64/Packages.gz
+SHA256:
+ 724790f4cdf0fade889ea0a25dd167752bee2680cef9e897b9bedfa57db1c528              148 Release
+ d4b5444c4ee60767f32048550ebd8cffa4a06831ba0723687a88381e70bbb6f0              643 main/binary-amd64/Packages
+ 05fcaca339093de620eadffd672e91cfb829df22bd826eb912ca91c96f835283              460 main/binary-amd64/Packages.gz
+ 04cddbf1f807ce5e0e8c7a830a360f9cf66fba3fd7758d4d74ce40d7489d8703              642 main/binary-arm64/Packages
+ 9f0af548dc6567841019a00256bd30eef34e11899394b795e0a5e490906ca55c              459 main/binary-arm64/Packages.gz
+SHA512:
+ 56a7af50b75c3234528ac98341938a8be576bd429c47064890c12a4c2e6eb4d02967b79e32b004d72bf36ef30270326f6d0a85b151ae9befb80487908efdd38c              148 Release
+ 14fd3dae65f051f9f8f9cc2914daf8abdd5e079ad1496173ebadfe437f09c8debb21bc822035363ad59f9d09f3b375eba72f7ddc397a43f1f163817d972d3952              643 main/binary-amd64/Packages
+ e2cc2aebcd986caa9caea742913a3d2fc0098b4d2718b41abf18a4493374706b544d92704ea8cbbd2466d7e5a1cbde6fbc3767464d7f6dec23add0d9352ac400              460 main/binary-amd64/Packages.gz
+ 14b686a07062ab63dedd6fdf92740426858c695122be49eabdeb5d4ee925113d7b4fa876ef4a11814ad28485620cd1b4d890994418af00a962b05e629729a059              642 main/binary-arm64/Packages
+ 6eac7c6be8340eb97ccc2238fd8c8944823822117932b43dfab6482f55b5941721f47a4ac6e078998aad269e5c81eec187129ebaac1f4b3f0534a26bfdac60f3              459 main/binary-arm64/Packages.gz
