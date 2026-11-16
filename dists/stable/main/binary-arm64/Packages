@@ -28,3 +28,18 @@ SHA512: 17f7fb2a346e5edcc50bf0bd2561aa67dd3c8e77648fb5543b9e05376172b13ea2774898
 Homepage: https://github.com/zeckitoz/taiga-tui
 Description: Keyboard-driven terminal UI for Taiga Taskboards and Kanban Boards.
 
+Package: taiga-tui
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Maintainer: zeckitoz <noreply@github.com>
+Installed-Size: 9728
+Filename: pool/main/t/taiga-tui/taiga-tui_1.0.0_linux_arm64.deb
+Size: 3642574
+MD5sum: d646d255f419a251fe4aaaf4fd2089b5
+SHA1: 1cf43337a812db3db8e775958af5e9c8fab5457e
+SHA256: 6628e58fb142a968bdb3dd3e1ab001cc5cd3f935b1b10bf6587b54db46a0308c
+SHA512: 431ed3d917ec1a60ac124cf58c0fa3d9cddbd487beb537ac52a65e4fa37a62e3815610cd715425a7fe183b7a79b38f425b62c425f8a0b5db6521442b6fa603dc
+Homepage: https://github.com/zeckitoz/taiga-tui
+Description: Keyboard-driven terminal UI for Taiga Taskboards and Kanban Boards.
+
